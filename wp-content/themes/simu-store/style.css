@@ -1,0 +1,243 @@
+/*
+Theme Name:   Simu Store
+Theme URI: https://edatastyle.com/product/simu-store
+Author: eDataStyle
+Author URI: https://edatastyle.com/
+Description:  Simu Store is child theme of SornaCommerce. Simu-Store is a free and super powerful ecommerce shop WordPress theme for WooCommerce. Simu Store  can be used for selling almost anything – electronics, fashion shop, sports, furniture, clothing shop, accessories, auto, jewelry, shopping digital, gadgets and other. it features a bespoke integration with WooCommerce itself plus many of the most popular customer facing WooCommerce extensions.The theme is designed with strong focus on usability and overall excellent user experience. It exists so that you can speedily and efficiently craft powerful e-Commerce & Shopping cart websites across all niches and shop & markets in a matter of minutes, without having to write a line of code.
+Template:     sornacommerce
+Version:      1.1
+License: GNU General Public License v3
+License URI: http://www.gnu.org/licenses/gpl.html
+Tags: one-column, two-columns, right-sidebar, custom-background, custom-menu, featured-images, theme-options, translation-ready, custom-logo, e-commerce
+Text Domain:  simu-store
+*/
+
+/* Write here your own personal stylesheet */
+.header-content{
+	position:relative;
+	padding:10px;
+}
+.header-content{
+	padding:30px 0px;	
+}
+.header-content h1{
+	margin:0px;
+	padding:0px;	
+}
+
+body a {
+    color: #959595;
+    text-decoration: none;
+}
+
+/*----------------------------------------*/
+/*  1. Search Category
+/*----------------------------------------*/
+.header-main #search-category {
+    overflow: hidden;
+
+}
+.search-box {
+    background-color: #f1f1f0;
+    border: 1px solid #e2e1e6;
+    float: left;
+    margin: 11px 0 0;
+    position: relative;
+    width: 100%;
+   
+}
+.search-cat {
+    background: transparent url("assets/img/down-arrowblk.png") no-repeat scroll 89% 22px;
+    cursor: pointer;
+    float: left;
+    font-weight: 700;
+    height: 48px;
+    line-height: 50px;
+    padding: 0;
+    position: absolute;
+    text-transform: capitalize;
+    width: 150px;
+}
+.search-cat::after {
+    background: #8e8b8c none repeat scroll 0 0;
+    content: "";
+    height: 22px;
+    position: absolute;
+    right: 0;
+    top: 13px;
+    width: 1px;
+}
+.search-cat p .cate-selected {line-height: 45px}
+.search-categories .fa {margin-left: 10px}
+#text-search {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: medium none;
+    font-family: arial;
+    font-size: 12px;
+    font-style: italic;
+    height: 48px;
+    line-height: 48px;
+    outline: medium none;
+    padding: 0 55px 0 160px;
+    width: 100%;
+}
+#text-search:focus {outline: none}
+#btn-search-category {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: 0 none;
+    color: #000000;
+    font-size: 20px;
+    height: 48px;
+    line-height: 48px;
+    margin: 0;
+    outline: medium none;
+    padding: 0;
+    position: absolute;
+    right: 0 !important;
+    top: 0;
+    width: 48px;
+    z-index: 99;
+}
+#btn-search-category:hover, #btn-search-two:hover i {color: #e60000}
+#btn-search-category .icon-search::before {
+    content: "";
+    font-family: FontAwesome;
+}
+#btn-search-category i {font-style: normal}
+.category-items {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    background: rgba(0, 0, 0, 0) none no-repeat scroll 0 0;
+    border: 0 none;
+    border-radius: 0;
+    color: #333333;
+    font-size: 13px !important;
+    height: 48px;
+    left: 0;
+    line-height: 48px;
+    outline: medium none;
+    overflow: hidden;
+    padding: 0 25px 0 15px;
+    position: absolute;
+    transition-duration: 0.4s;
+    transition-property: height;
+    width: 100%;
+    cursor: pointer
+}
+.category-items option {
+    background: #ffffff none repeat scroll 0 0;
+    color: #333333;
+    line-height: 26px;
+    padding: 4px 15px;
+}
+
+/*----------------------------------------*/
+/*  2. Nav Bar menu
+/*----------------------------------------*/
+.rd-navbar{
+	margin:0px;
+	padding:0px;	
+}
+.rd-navbar ul{
+	margin:0px;
+	padding:0px;	
+}
+.rd-navbar li{
+	list-style:none;
+   
+}
+.rd-navbar-static .rd-navbar-nav > li > a{
+  	color: #ffffff;
+    display: block;
+    font-family: 'Raleway', 'Lato', sans-serif;
+    font-size: 13px;
+	display:none;
+    font-weight: 600;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: all 4ms linear 0s;
+    border-left: 1px solid #14181d;
+    display: block;
+    padding: 16px;
+    position: relative;
+	
+}
+.rd-navbar-static .rd-navbar-nav > li > a:after{
+	position: absolute;
+	border: 2px solid #22cea0;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	content: "";
+	opacity:0;
+	-webkit-transition: all .3s;
+	-moz-transition: all .3s;
+	-o-transition: all .3s;
+	transition: all .3s;
+}
+.rd-navbar-static .rd-navbar-nav > li > a:hover:after,
+.rd-navbar-static .rd-navbar-nav > li.active > a:after{
+	opacity:1;
+}
+.rd-navbar-static .rd-navbar-nav > li > .rd-navbar-dropdown{
+	margin-top:0px;	
+}
+.rd-navbar-static .rd-navbar-cart-wrap{
+	margin:0px;
+	margin-right:15px;
+}
+.rd-navbar-static .rd-navbar-nav{
+	padding-left:15px;
+	padding-right:15px;
+	margin-top:0px;
+}
+.rd-navbar-cart-toggle{
+	background:none;
+	border:none;
+	color:#FFF;
+	margin-top:5px;
+}
+.rd-navbar-cart-toggle span{
+	color:#FFF;	
+}
+.rd-navbar-static .rd-navbar-nav > li.active > a, .rd-navbar-static .rd-navbar-nav > li.opened > a, .rd-navbar-static .rd-navbar-nav > li.focus > a, .rd-navbar-static .rd-navbar-nav > li > a:hover{
+	background:#FFF;
+	color:#1d242a;
+}
+.rd-navbar-static .rd-navbar-dropdown, .rd-navbar-static .rd-navbar-megamenu{
+	background:#fff;	
+}
+.rd-navbar-cart .rd-navbar-cart-item__left img{
+	max-width:50px;
+	-webkit-border-radius:50%;
+	-moz-border-radius:50%;
+	border-radius:50%;
+}
+.woocommerce-mini-cart__total.total{
+	display:block;
+	text-align:right;
+	padding-top:10px;
+}
+.rd-navbar-cart-item__body{
+	position:relative;	
+}
+.rd-navbar-cart-item a.remove {
+	position:absolute;
+	right:10px;
+	top:5px;
+	font-size: 1.5em;
+	height: 1em;
+	width: 1em;
+	text-align: center;
+	line-height: 1;
+	border-radius: 100%;
+	color: red !important;
+	text-decoration: none;
+	font-weight: 700;
+	border: 0;
+	
+}
+.rd-navbar-cart-item a.remove:hover{
+	color: #fff !important;
+	background: red;
+}

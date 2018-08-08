@@ -1,0 +1,30 @@
+#customize-controls .control-section-vw-corporate-business .accordion-section-title:hover,
+#customize-controls .control-section-vw-corporate-business .accordion-section-title:focus {
+	background-color: #fff;
+}
+.control-section-vw-corporate-business .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+}
+.rtl .control-section-vw-corporate-business .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
+/* ---------Customizer--------- */
+.control-section-vw-corporate-business h3.accordion-section-title {
+  	background: #7fbe4b !important;
+  	color: #fff !important;
+}
+a.button.button-secondary.alignright {
+  	color: #fff;
+    box-shadow: 2px 2px 0px 0px #333;
+    border: solid 1px #333;
+    border-bottom: none;
+    background: #000;
+    font-weight: bold;
+}
+a.button.button-secondary.alignright:hover {
+	background: #eee;
+	color: #000;
+}

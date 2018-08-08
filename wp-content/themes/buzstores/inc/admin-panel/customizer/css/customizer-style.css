@@ -1,0 +1,138 @@
+/** Switch Option **/
+.switch_button{
+    display: block;
+}
+.switch_button:before,
+.switch_button:after{
+    content:'.';
+    display:block;
+    overflow:hidden;
+    visibility:hidden;
+    font-size:0;
+    line-height:0;
+    width:0;
+    height:0;
+}
+.switch_button:after{
+	clear:both;
+}
+.switch_button span{
+    display: inline-block;
+    float: left;
+    padding: 4px 9px;
+    margin: 0;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: normal;
+    color: #555;
+    border: 1px solid #aaa;
+    text-transform: uppercase;
+    line-height: 16px;
+    background: #ffffff; /* Old browsers */
+    background: -moz-linear-gradient(top,  #ffffff 0%, #e5e5e5 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#e5e5e5)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #ffffff 0%,#e5e5e5 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #ffffff 0%,#e5e5e5 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #ffffff 0%,#e5e5e5 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #ffffff 0%,#e5e5e5 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e5e5e5',GradientType=0 ); /* IE6-9 */
+
+}
+.switch_button span:first-of-type{
+    border-radius: 2px 0 0 2px;
+    border-right: 0;
+}
+.switch_button span:last-of-type{
+    border-radius: 0 2px 2px 0;
+    border-left: 0;
+}
+.switch_button span:hover{
+    background: #fafafa;
+}
+.switch_button span.selected{
+    background: #00b7ea; /* Old browsers */
+    background: -moz-linear-gradient(top,  #00b7ea 0%, #009ec3 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#00b7ea), color-stop(100%,#009ec3)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #00b7ea 0%,#009ec3 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #00b7ea 0%,#009ec3 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #00b7ea 0%,#009ec3 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #00b7ea 0%,#009ec3 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00b7ea', endColorstr='#009ec3',GradientType=0 ); /* IE6-9 */
+    border-color: #0082A3;
+    color: #fff;
+}
+.control-section-buzstores-pro .custom-section-title{
+    background: #28344c;
+    padding: 15px;
+    color: #fff;
+    line-height: 1.7;
+    padding:10px 10px 10px 10px;
+    overflow: hidden;
+    margin: 0;
+    text-transform: uppercase;
+}
+.wp-core-ui .control-section-buzstores-pro .button{
+    background: #ffca00;
+    height: auto;
+    line-height: 1;
+    border: 1px solid #ffca00;
+    -webkit-box-shadow:none;
+    box-shadow: none;
+    color: #000;
+    border-radius: 0;
+    padding: 4px 10px 6px;
+    -webkit-transition: all ease 0.3s;
+    -ms-transition: all ease 0.4s;
+    -moz-transition: all ease 0.4s;
+    transition: all ease 0.4s;
+}
+.wp-core-ui .control-section-buzstores-pro .button:hover{
+    opacity: 0.8;
+}
+#customize-theme-controls .control-section-buzstores-pro.control-section{
+    margin-bottom: 0;
+}
+.wp-core-ui #customize-controls .control-section-buzstores-pro h3{
+    font-size: 13px;
+}
+/**/
+.wp-core-ui .customize-control .button, 
+.wp-core-ui .customize-control .button-primary,
+.customize-control.customize-control-text a{
+    min-width: 30px;
+    border: solid 1px #0073aa;
+    padding: 4px;
+    font-size: 14px;
+    font-weight: bold;
+    background: #0073aa;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 12px;
+    padding: 4px 10px 6px;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 5px;
+    text-shadow: none;
+    -webkit-box-shadow:none;
+    box-shadow: none;
+}
+.wp-core-ui .customize-control .button-primary.buynow{
+    height: auto;
+    line-height: 1;
+    padding: 8px 15px 10px;
+}
+.wp-core-ui .customize-control .button:hover, 
+.wp-core-ui .customize-control .button-primary:hover,
+.customize-control.customize-control-text a:hover{
+    background: transparent;
+    color: #0073aa;
+}
+.wp-customizer .info-importing {
+    font-style: italic;
+}
+ul.admin-pro-feature-list li {
+    padding: 10px 5px 10px 10px;
+    font-size: 15px;
+    background: #fff;
+    color: #424242;
+}

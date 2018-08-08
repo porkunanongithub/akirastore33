@@ -1,0 +1,103 @@
+# <!=Copyright (C) 2018 Blossom Themes
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Blossom Pretty 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2018-07-30 11:26:23+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: functions.php:81
+msgid "Demo & Documentation"
+msgstr ""
+
+#: functions.php:94
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr ""
+
+#: functions.php:96
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr ""
+
+#: functions.php:112
+msgid "Layout Settings"
+msgstr ""
+
+#: functions.php:121 functions.php:142
+msgid "Slider Layout"
+msgstr ""
+
+#: functions.php:143
+msgid "Choose the layout of the slider for your site."
+msgstr ""
+
+#: functions.php:156 functions.php:177
+msgid "Home Page Layout"
+msgstr ""
+
+#: functions.php:178
+msgid "This is the layout for blog index page."
+msgstr ""
+
+#: functions.php:259
+msgid " Blossom Pretty"
+msgstr ""
+
+#: functions.php:259
+msgid " by Blossom Themes."
+msgstr ""
+
+#: functions.php:261
+msgid " Powered by %s"
+msgstr ""
+
+#: functions.php:261
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Blossom Pretty"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://blossomthemes.com/downloads/blossom-pretty-free-wordpress-theme"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Blossom Pretty is a child theme of Blossom Feminine WordPress blog theme. "
+"This feminine and chic theme can be used to create stunning, lively and eye "
+"catching website. Whether you want to share your expert fashion tips, your "
+"favorite recipes or create a lifestyle, travel, food, beauty, make-up, "
+"wedding, portfolio, personal, girly, parenting or cooking blog, Blossom "
+"Pretty is an ideal choice for you. You can easily customize your website "
+"using the typography and color features. You can change the color to pink, "
+"purple, blue, or any color you like. Blossom Pretty is mobile friendly and "
+"fully responsive to ensure your website looks great in different "
+"screens.The beautiful Instagram section can be used to showcase images from "
+"your Instagram account and increase your followings. The advertisement "
+"widget in the theme will help you easily monetize your blog. The well "
+"placed Newsletter section will help you to grow your email list and keep in "
+"touch with your visitors. Like it�s parent theme, Blossom Pretty is also "
+"SEO friendly and speed optimized. The theme is translation ready, supports "
+"RTL and WooCommerce plugin. In addition, Blossom Pretty is backed by world "
+"class, one-on-one support, and a super active team of developers and "
+"designers ready to help! Check demo: "
+"https://demo.blossomthemes.com/blossom-pretty/, read documentation: "
+"https://blossomthemes.com/blossom-pretty-documentation/, and get support: "
+"https://blossomthemes.com/support-ticket/."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Blossom Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://blossomthemes.com/"
+msgstr ""

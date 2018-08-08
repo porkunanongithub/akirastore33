@@ -1,0 +1,573 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BB E-commerce Store\n"
+"Last-Translator: \n"
+"Language-Team: ThemeShopy <support@themeshopy.com>\n"
+"Language: English\n"
+"MIME-Version: 1.1.1.4\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:13
+msgid '404 Not Found'
+msgstr ""
+
+#: 404.php:14
+msgid 'Looks like you have taken a wrong turn'
+msgstr ""
+
+#: 404.php:15
+#: no-results.php:20
+msgid 'Dont worry it happens to the best of us.'
+msgstr ""
+
+#: 404.php:17
+#: no-results.php:22
+msgid 'Back to Home Page'
+msgstr ""
+
+#: archive.php:42
+#: archive.php:77
+#: archive.php:114
+#: archive.php:149
+#: archive.php:186
+#: archive.php:224
+#: index.php:44
+#: index.php:76
+#: index.php:108
+#: index.php:140
+#: index.php:174
+#: index.php:207
+#: search.php:37
+#: search.php:69
+#: search.php:101
+#: search.php:133
+#: search.php:167
+#: search.php:200
+#: single.php:56
+#: single.php:113
+#: single.php:170
+#: single.php:227
+#: single.php:285
+#: single.php:343
+msgid 'Previous page'
+msgstr ""
+
+#: archive.php:43
+#: archive.php:78
+#: archive.php:115
+#: archive.php:150
+#: archive.php:187
+#: archive.php:225
+#: index.php:45
+#: index.php:77
+#: index.php:109
+#: index.php:141
+#: index.php:175
+#: index.php:208
+#: search.php:38
+#: search.php:70
+#: search.php:102
+#: search.php:134
+#: search.php:168
+#: search.php:201
+#: single.php:53
+#: single.php:110
+#: single.php:167
+#: single.php:224
+#: single.php:282
+#: single.php:340
+msgid 'Next page'
+msgstr ""
+
+#: archive.php:44
+#: archive.php:79
+#: archive.php:116
+#: archive.php:151
+#: archive.php:188
+#: archive.php:226
+#: index.php:46
+#: index.php:78
+#: index.php:110
+#: index.php:142
+#: index.php:176
+#: index.php:209
+#: search.php:39
+#: search.php:71
+#: search.php:103
+#: search.php:135
+#: search.php:169
+#: search.php:202
+#: single.php:41
+#: single.php:98
+#: single.php:155
+#: single.php:212
+#: single.php:270
+#: single.php:328
+#: page.php:29
+#: page-template/page-with-left-sidebar.php:27
+#: page-template/page-with-right-sidebar.php:23
+msgid 'Page'
+msgstr ""
+
+#: comments.php:30
+msgid 'One thought on &ldquo;%s&rdquo;'
+msgstr ""
+
+#: comments.php:38
+msgid 'comments title'
+msgstr ""
+
+#: comments.php:68
+msgid 'Comments are closed.'
+msgstr ""
+
+#: footer.php:30
+msgid 'Ecommerce Theme By'
+msgstr ""
+
+#: functions.php:31
+msgid 'Primary Menu'
+msgstr ""
+
+#: functions.php:63
+msgid 'Thank you for choosing ThemeShopy. We are sincerely obliged to offer our best services to you. Please proceed towards welcome page and give us the privilege to serve you.'
+msgstr ""
+
+#: functions.php:64
+msgid 'Click here...'
+msgstr ""
+
+#: functions.php:71
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:72
+msgid 'Appears on blog page sidebar'
+msgstr ""
+
+#: functions.php:82
+#: functions.php:92
+#: functions.php:142
+msgid 'Appears on posts and pages'
+msgstr ""
+
+#: functions.php:81
+msgid 'Posts and Pages Sidebar'
+msgstr ""
+
+#: functions.php:91
+msgid "Third Column Sidebar"
+msgstr ""
+
+#: functions.php:101
+msgid 'Footer 1'
+msgstr ""
+
+#: functions.php:102
+#: functions.php:112
+#: functions.php:122
+#: functions.php:132
+msgid 'Appears on footer'
+msgstr ""
+
+#: functions.php:111
+msgid 'Footer 2'
+msgstr ""
+
+#: functions.php:121
+msgid 'Footer 3'
+msgstr ""
+
+#: functions.php:131
+msgid 'Footer 4'
+msgstr ""
+
+#: functions.php:141
+msgid 'Static page Sidebar'
+msgstr ""
+
+#: functions.php:378
+msgid 'ThemeShopy'
+msgstr ""
+
+#: functions.php:405
+#: header.php:79
+msgid 'View your shopping cart'
+msgstr ""
+
+#: header.php:19
+msgid 'Menu'
+msgstr ""
+
+#: header.php:31
+msgid 'support@123.com'
+msgstr ""
+
+#: header.php:71
+msgid 'placeholder'
+msgstr ""
+
+#: header.php:71
+msgid 'Search here'
+msgstr ""
+
+#: header.php:71
+msgid 'Search for:'
+msgstr ""
+
+#: header.php:71
+msgid 'label'
+msgstr ""
+
+#: image.php:36
+#: image.php:72
+#: image.php:107
+#: image.php:142
+#: image.php:180
+#: image.php:218
+#: page.php:25
+#: single.php:37
+#: single.php:94
+#: single.php:151
+#: single.php:208
+#: single.php:266
+#: single.php:324
+#: page-template/page-with-left-sidebar.php:23
+#: page-template/page-with-right-sidebar.php:19
+msgid 'Pages:'
+msgstr ""
+
+#: image.php:41
+#: image.php:77
+#: image.php:112
+#: image.php:147
+#: image.php:185
+#: image.php:223
+msgid 'Edit'
+msgstr ""
+
+#: no-results.php:11
+msgid 'Nothing Found'
+msgstr ""
+
+#: no-results.php:15
+msgid 'Ready to publish your first post? Get started here.'
+msgstr ""
+
+#: no-results.php:17
+msgid 'Sorry, but nothing matched your search terms. Please try again with some different keywords.'
+msgstr ""
+
+#: search.php:17
+#: search.php:49
+#: search.php:81
+#: search.php:113
+#: search.php:147
+#: search.php:180
+msgid 'Results For: %s'
+msgstr ""
+
+#: searchform.php:10
+msgid 'placeholder'
+msgstr ""
+
+#: searchform.php:12
+msgid 'submit button'
+msgstr ""
+
+#: sidebar.php:11
+msgid 'Archives'
+msgstr ""
+
+#: sidebar.php:17
+msgid 'Meta'
+msgstr ""
+
+#: single.php:25
+#: single.php:82
+#: single.php:139
+#: single.php:196
+#: single.php:254
+#: single.php:312
+#: template-parts/content-audio.php:24
+#: template-parts/content-gallery.php:15
+#: template-parts/content-image.php:15
+#: template-parts/content-video.php:24
+#: template-parts/content.php:15
+#: template-parts/grid-layout:16
+msgid '0 Comments'
+msgstr ""
+
+#: single.php:48
+#: single.php:105
+#: single.php:162
+#: single.php:219
+#: single.php:277
+#: single.php:335
+msgid 'Parent post link'
+msgstr ""
+
+#: single.php:57
+#: single.php:114
+#: single.php:171
+#: single.php:228
+#: single.php:286
+#: single.php:344
+msgid 'Previous post:'
+msgstr ""
+
+#: single.php:54
+#: single.php:111
+#: single.php:168
+#: single.php:225
+#: single.php:283
+#: single.php:341
+msgid 'Next post:'
+msgstr ""
+
+#: page-template/custom-home-page.php:66
+msgid 'Learn More'
+msgstr ""
+
+#: page-template/custom-home-page.php:85
+msgid 'New Products'
+msgstr ""
+
+#: template-parts/content-audio.php:43
+#: template-parts/content-gallery.php:33
+#: template-parts/content-image.php:27
+#: template-parts/content-video.php:44
+#: template-parts/content.php:27
+#: template-parts/grid-layout:28
+msgid 'Read More'
+msgstr ""
+
+#: inc/customizer.php:20
+msgid 'Theme Settings'
+msgstr ""
+
+#: inc/customizer.php:21
+msgid 'Description of what this panel does.'
+msgstr ""
+
+#: inc/customizer.php:26
+msgid 'Layout Settings'
+msgstr ""
+
+#: inc/customizer.php:40
+msgid 'Change Layouts'
+msgstr ""
+
+#: inc/customizer.php:43
+msgid 'Left Sidebar'
+msgstr ""
+
+#: inc/customizer.php:44
+msgid 'Right Sidebar'
+msgstr ""
+
+#: inc/customizer.php:45
+msgid 'One Column'
+msgstr ""
+
+#: inc/customizer.php:46
+msgid 'Three Columns'
+msgstr ""
+
+#: inc/customizer.php:47
+msgid 'Four Columns'
+msgstr ""
+
+#: inc/customizer.php:48
+msgid 'Grid Layout'
+msgstr ""
+
+#: inc/customizer.php:148
+msgid 'Typography'
+msgstr ""
+
+#: inc/customizer.php:159
+msgid 'Paragraph Color'
+msgstr ""
+
+#: inc/customizer.php:173
+msgid 'Paragraph Fonts'
+msgstr ""
+
+#: inc/customizer.php:184
+msgid 'Paragraph Font Size'
+msgstr ""
+
+#: inc/customizer.php:196
+msgid '"a" Tag Color'
+msgstr ""
+
+#: inc/customizer.php:210
+msgid '"a" Tag Fonts'
+msgstr ""
+
+#: inc/customizer.php:220
+msgid '"li" Tag Color'
+msgstr ""
+
+#: inc/customizer.php:235
+msgid '"li" Tag Fonts'
+msgstr ""
+
+#: inc/customizer.php:246
+msgid 'H1 Color'
+msgstr ""
+
+#: inc/customizer.php:260
+msgid 'H1 Fonts'
+msgstr ""
+
+#: inc/customizer.php:272
+msgid 'H1 Font Size'
+msgstr ""
+
+#: inc/customizer.php:284
+msgid 'H2 Color'
+msgstr ""
+
+#: inc/customizer.php:298
+msgid 'H2 Fonts'
+msgstr ""
+
+#: inc/customizer.php:310
+msgid 'H2 Font Size'
+msgstr ""
+
+#: inc/customizer.php:322
+msgid 'H3 Color'
+msgstr ""
+
+#: inc/customizer.php:336
+msgid 'H3 Fonts'
+msgstr ""
+
+#: inc/customizer.php:348
+msgid 'H3 Font Size'
+msgstr ""
+
+#: inc/customizer.php:360
+msgid 'H4 Color'
+msgstr ""
+
+#: inc/customizer.php:374
+msgid 'H4 Fonts'
+msgstr ""
+
+#: inc/customizer.php:386
+msgid 'H4 Font Size'
+msgstr ""
+
+#: inc/customizer.php:398
+msgid 'H5 Color'
+msgstr ""
+
+#: inc/customizer.php:412
+msgid 'H5 Fonts'
+msgstr ""
+
+#: inc/customizer.php:424
+msgid 'H5 Font Size'
+msgstr ""
+
+#: inc/customizer.php:436
+msgid 'H6 Color'
+msgstr ""
+
+#: inc/customizer.php:450
+msgid 'H6 Fonts'
+msgstr ""
+
+#: inc/customizer.php:462
+msgid 'H6 Font Size'
+msgstr ""
+
+#: inc/customizer.php:470
+msgid 'Topbar Section'
+msgstr ""
+
+#: inc/customizer.php:471
+#: inc/customizer.php:503
+msgid 'Add Header Content here'
+msgstr ""
+
+#: inc/customizer.php:482
+msgid 'Add Phone Number'
+msgstr ""
+
+#: inc/customizer.php:494
+msgid 'Add Email'
+msgstr ""
+
+#: inc/customizer.php:502
+msgid 'Social Icon Section'
+msgstr ""
+
+#: inc/customizer.php:514
+msgid 'Add Youtube link'
+msgstr ""
+
+#: inc/customizer.php:526
+msgid 'Add Facebook link'
+msgstr ""
+
+#: inc/customizer.php:538
+msgid 'Add Twitter link'
+msgstr ""
+
+#: inc/customizer.php:550
+msgid 'Add RSS link'
+msgstr ""
+
+#: inc/customizer.php:558
+msgid 'Slider Settings.'
+msgstr ""
+
+#: inc/customizer.php:572
+msgid 'Select Slide Image Page'
+msgstr ""
+
+#: inc/customizer.php:580
+msgid 'Products'
+msgstr ""
+
+#: inc/customizer.php:581
+msgid 'This section will appear below the slider.'
+msgstr ""
+
+#: inc/customizer.php:592
+msgid 'Section Title'
+msgstr ""
+
+#: inc/customizer.php:605
+msgid 'Select Page'
+msgstr ""
+
+#: inc/customizer.php:613
+msgid 'Footer Text'
+msgstr ""
+
+#: inc/customizer.php:614
+msgid 'Add some text for footer like copyright etc.'
+msgstr ""
+
+#: inc/customizer.php:624
+msgid 'Copyright Text'
+msgstr ""
+
+#: inc/customizer.php:709
+msgid 'BB Ecommerce Pro'
+msgstr ""
+
+#: inc/customizer.php:710
+msgid 'Go Pro'
+msgstr ""

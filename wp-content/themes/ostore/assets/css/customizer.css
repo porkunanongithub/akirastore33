@@ -1,0 +1,15 @@
+.customize-partial-edit-shortcut, .widget .customize-partial-edit-shortcut {
+    position: absolute;
+    float: left;
+    left: 5% !important;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px 0 0 -1px;
+    border: 0;
+    background: 0 0;
+    color: transparent;
+    box-shadow: none;
+    outline: 0;
+    z-index: 5;
+}
